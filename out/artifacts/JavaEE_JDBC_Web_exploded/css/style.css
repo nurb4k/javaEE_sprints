@@ -1,0 +1,23 @@
+body {
+    margin: 0 auto;
+    font-family: Arial sans-serif;
+}
+
+.navbar {
+    background-color: rgba(255, 0, 0, 0.6);
+    display: flex;
+    color: white;
+    padding: 20px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.navbuttons {
+    margin-left: 20px;
+}
+
+.login {
+    margin-right: 20%;
+}
+
+a
